@@ -4,3 +4,4 @@
 3. Chinook Music Database
 4. SQL file to query data for Digital Music Store Database.pdf
 5. Digital Music Store Database.pdf
+6. [Tableau Dashboard](https://shorturl.at/aJKP2)
