@@ -1,2 +1,24 @@
 https://public.tableau.com/views/UdacityYoutubeDataDashboard/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
+TABLEAU DATA DASHBOARD PROJECT
+
+Disclaimer: In this project I use accumulated view as the measure for these 4 charts to avoid double counting.
+Accumulated view = {FIXED [Title]: MAX([Views])}
+
+Chart 1: Most Viewed Videos
+Summary: This chart shows the most viewed videos. Looking at the top we see all the content from big corporations, even “To Our Daughter” from Kylie Jenner, which looks like a personal video, is also produced by a professional team.
+Design: With horizontal bar chart to show the number of views, we can have a good grasp of what’s popular and what’s not and comparing one to another is easy. With color encoded for categories, we can see which category attracts lots of views. 
+Entertainment in green and Music in red are dominating the list.
+
+Chart 2: Which State Consume The Most Content
+Summary: This map shows the number of views of videos from each state (instructions clearly say that to treat the state as the upload location). We can see that states with high population density such as CA and FL easily have the most view since they are metropolitan areas with lots of resources to produce videos. It’s surprising that NY is fairly low on this map.
+Design: This is a simple map with Color encoded to number of views in each state.
+
+Chart 3: Popularity of Category by Views
+Summary: This tree map shows how much each state likes each category based on view. Here we can see again that Music and Entertainment are top of the list with considerably bigger area than the rest. Looking at the top of each category, CA and FL again stick out as 2 of the top consumers.
+Design: This tree map has similar color coding to the first chart for cohesion. The area representing number of views does a sufficient job of ranking the popularity of each category and each state without being overly specific. Also, the filters make it easily to see the desired state and category.
+
+Chart 4: Average Views In A Year By Quarters
+Summary: This is a heat map that shows how much people watch YouTube in each quarter. Here we see people consume YouTube so much more in Q1 and Q4, with Q2 and Q3 being much lower. And again, Music and Entertainment are on top of the list.
+Design: Heatmap with gradient color encoded, easy to read and understand.
+
